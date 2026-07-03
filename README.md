@@ -4,6 +4,7 @@ A single-page, animated dark-tech portfolio built with plain HTML, CSS, and Java
 
 **Live file:** `index.html`
 
+
 ## Features
 
 - **Animated hero** — typing terminal effect that types out a tagline character by character
